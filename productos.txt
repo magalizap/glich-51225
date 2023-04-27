@@ -1,0 +1,1 @@
+[{"title":"Arroz","description":"muy rico","price":120,"thumbnail":[],"code":"A234","stock":30,"id":1}]
